@@ -55,7 +55,9 @@ The implementation was done using **Cisco Packet Tracer**, with full device conf
 
 2. **Video Explanation (20–40 mins)**  
    - Step-by-step walkthrough of network design and configuration  
-   - Demonstrates working applications, services, and connectivity  
+   - Demonstrates working applications, services, and connectivity
+  
+   - AND DM me if you need the vidio ,get the links from my profile 
 
 3. **README.md (this file)**  
    - Documentation of project requirements, design choices, and implementation details  
